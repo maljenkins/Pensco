@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic");
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+img {
+  max-width: 100%;
+}
+
+iframe {
+  max-width: 100% !important;
+}
+
+::-moz-selection {
+  background-color: #3390ff;
+  color: #fff;
+}
+
+::selection {
+  background-color: #3390ff;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #dc5925;
+  border-color: #dc5925;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 0;
+  font-weight: bold;
+  padding: 15px 35px;
+}
+
+.btn-primary:hover {
+  background-color: #e4835c;
+  border-color: #e4835c;
+}
+
+.btn-lg {
+  font-size: 14px !important;
+}
+
+#form-container {
+  background-color: #3390ff;
+}
+
+.jumbotron .lead {
+  font-size: 14px;
+}
+
+.jumbotron .display-3 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.jumbotron .display-3 strong {
+  font-weight: 700;
+}
+
+section {
+  padding: 2rem 0;
+}
+
+section h2 {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+section h3 {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+section p {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+section ul {
+  list-style-type: circle;
+}
+
+footer {
+  background-color: #3390ff;
+  color: #fff;
+  padding: 5rem 0;
+  line-height: 24px;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #e8e8e8;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
